@@ -1,0 +1,12 @@
+.iframe {
+    height: 800px;
+    border: 0;
+    width: 100%;
+    overflow: auto;
+}
+
+.center {
+    text-align: center;
+    color: black;
+    font-family: Arial;
+}
